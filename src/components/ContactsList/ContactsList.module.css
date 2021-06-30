@@ -1,0 +1,35 @@
+.container{
+   width: 100%;
+   margin-top: 20px;
+   height: auto;
+}
+.container ul {
+   min-height: 30px;
+   margin: 0;
+   padding: 0;
+   border: 1px solid black;
+   width: 300px;
+   /* display: flex;
+   flex-direction: column; */
+}
+.item{
+   list-style: none;
+   /* display: flex; */
+}
+.name{
+   display: block;
+    padding: 0px;
+   margin:0px;
+   /* line-height: 1.5; */
+}
+.btn{
+   display: block
+}
+.item__container{
+   display: flex;
+   justify-content: space-between;
+   align-items: baseline;
+   border: 1px solid black;
+   padding: 0px;
+   margin:0px;
+}
