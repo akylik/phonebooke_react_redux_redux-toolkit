@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phonebooke_react_redux_redux-toolkit/static/css/main.f9fa7f78.chunk.css",
+    "main.js": "/phonebooke_react_redux_redux-toolkit/static/js/main.bc1f3161.chunk.js",
+    "main.js.map": "/phonebooke_react_redux_redux-toolkit/static/js/main.bc1f3161.chunk.js.map",
+    "runtime-main.js": "/phonebooke_react_redux_redux-toolkit/static/js/runtime-main.2451a3f5.js",
+    "runtime-main.js.map": "/phonebooke_react_redux_redux-toolkit/static/js/runtime-main.2451a3f5.js.map",
+    "static/css/2.1a215020.chunk.css": "/phonebooke_react_redux_redux-toolkit/static/css/2.1a215020.chunk.css",
+    "static/js/2.cd68899d.chunk.js": "/phonebooke_react_redux_redux-toolkit/static/js/2.cd68899d.chunk.js",
+    "static/js/2.cd68899d.chunk.js.map": "/phonebooke_react_redux_redux-toolkit/static/js/2.cd68899d.chunk.js.map",
+    "index.html": "/phonebooke_react_redux_redux-toolkit/index.html",
+    "precache-manifest.94fa3a387b84b639abeaafe9f1193e79.js": "/phonebooke_react_redux_redux-toolkit/precache-manifest.94fa3a387b84b639abeaafe9f1193e79.js",
+    "service-worker.js": "/phonebooke_react_redux_redux-toolkit/service-worker.js",
+    "static/css/2.1a215020.chunk.css.map": "/phonebooke_react_redux_redux-toolkit/static/css/2.1a215020.chunk.css.map",
+    "static/css/main.f9fa7f78.chunk.css.map": "/phonebooke_react_redux_redux-toolkit/static/css/main.f9fa7f78.chunk.css.map",
+    "static/js/2.cd68899d.chunk.js.LICENSE.txt": "/phonebooke_react_redux_redux-toolkit/static/js/2.cd68899d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2451a3f5.js",
+    "static/css/2.1a215020.chunk.css",
+    "static/js/2.cd68899d.chunk.js",
+    "static/css/main.f9fa7f78.chunk.css",
+    "static/js/main.bc1f3161.chunk.js"
+  ]
+}
